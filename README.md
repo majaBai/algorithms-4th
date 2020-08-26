@@ -1,2 +1,2 @@
 # algorithms-4th
-learn algorithms
+practices and examples in algorithms 4th
